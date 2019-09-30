@@ -6,11 +6,12 @@
 }
   
 /* header css */
+
 .head1 {
   display: flex;
   justify-content: space-between;
   background-color: #fff;
-  max-width: 960px;
+  width: 960px;
   margin: 0 auto;
   font-family: 'Georgia', Times, 'Times New Roman', serif;
   border-bottom: 2px solid #ccc;
